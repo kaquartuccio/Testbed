@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 import urllib2
 import shutil
 import requests
-from urlparse import urljoin
+from urllib.parse import urljoin
 import sys
 import time
 
